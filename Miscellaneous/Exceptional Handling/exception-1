@@ -1,5 +1,5 @@
 '''  Q 1.
-Write a Program in Python to Manage Excepyions while Performing Arithmetic
+Write a Program in Python to Manage Exceptions while Performing Arithmetic
 Operation on a User Input.
 '''
 try:
