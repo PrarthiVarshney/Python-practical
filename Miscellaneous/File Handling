@@ -1,6 +1,0 @@
-#  Q 1. WAP to write Biodata of a Person.
-
-bio=input("enter biodata")
-f=open('demo.txt','w')
-f.write(bio)
-f.close
