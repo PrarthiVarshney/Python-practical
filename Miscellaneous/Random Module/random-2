@@ -1,0 +1,5 @@
+#  Q 2. Write a Program  to shuffle a word randomly.
+
+import random as rd
+n=input("enter a word")
+print(rd.shuffle(n))
