@@ -1,0 +1,5 @@
+# Q 2. Write a Program to find the power of a number using math module.
+import math as mp
+n=int(input("enter no"))
+m=int(input("enter power"))
+print(mp.pow(n,m))
