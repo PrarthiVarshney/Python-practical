@@ -1,0 +1,4 @@
+# Q 4. Write a program using floor functiom.
+import math as mp
+n=float(input("enter decimal no."))
+print(mp.floor(n))
