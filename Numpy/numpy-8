@@ -1,4 +1,4 @@
-# Q 7. WAP to find median of a matrix
+# Q 8. WAP to find median of a matrix
 
 import numpy as np
 n=int(input('enter the size'))
