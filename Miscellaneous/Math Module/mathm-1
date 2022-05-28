@@ -1,0 +1,6 @@
+#  Q 1. Write a Program  to find a+b sqaure.
+
+import math as mp
+n=int(input("enter no"))
+m=int(input("enter other no"))
+print(mp.pow(n+m,2))
