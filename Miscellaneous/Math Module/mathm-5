@@ -1,0 +1,4 @@
+# Q 5. Write a Program to know the use of ceil Function.
+import math as mp
+n=float(input("enter decimal no."))
+print(mp.ceil(n))
