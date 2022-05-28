@@ -1,0 +1,6 @@
+#  Q 1. Write a Program  to write biodata of a Person.
+
+bio=input("enter biodata")
+f=open('demo.txt','w')
+f.write(bio)
+f.close
