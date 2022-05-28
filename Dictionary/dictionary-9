@@ -16,4 +16,4 @@ print(f"Multiplication of All Keys={k}")
 k=1
 for i in c:
     k=k*i
-print(f"Multiplication of All Keys={k}")
+print(f"Multiplication of All Values={k}")
